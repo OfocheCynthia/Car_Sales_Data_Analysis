@@ -95,3 +95,20 @@ ORDER BY TotalSold DESC;
 ```
 ## Visualisation
 ### Pivot Tables
+
+<img width="1007" height="433" alt="Car Dataset Pivot table" src="https://github.com/user-attachments/assets/10cb238d-8783-49ba-b259-5c372ec2c389" />
+
+### Dashboard
+
+<img width="1324" height="433" alt="new car dataset dashboard" src="https://github.com/user-attachments/assets/b2b7f1c4-9a71-40e1-aba9-91bf4b1ea297" />
+
+### Link to Charts
+[Link to Chart]
+
+[View my Linkedin](https://www.linkedin.com/in/ofochecynthia)
+
+
+
+
+
+
