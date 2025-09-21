@@ -93,3 +93,5 @@ FROM [dbo].[new_car_dataset]
 GROUP BY Body_Style
 ORDER BY TotalSold DESC;
 ```
+## Visualisation
+### Pivot Tables
