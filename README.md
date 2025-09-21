@@ -12,7 +12,8 @@
 ---
 ## Project Overview
 
->>
+>> This project analyzes a dataset of a Car Sales Company containing details such as brand, model, and price. In this analysis, I used pivot table to explore and the impact Brand, Color, Englne, Bodystyles, Region has on price.
+ i used PowerBi to extract insights and create an interactive sales dashboard that highlights key business insights. By performing segmentation and aggregations, the project also demonstrates how SQL can be used to answer business-related questions in the automotive industry. 
 
 --- 
 ## Data Source
